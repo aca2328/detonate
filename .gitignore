@@ -1,0 +1,5 @@
+# Never commit samples or reports
+inbox/*
+out/*
+!inbox/.gitkeep
+!out/.gitkeep
